@@ -24,6 +24,15 @@ a problem to convert it to PDF if you would like to:
       wkhtmltodpf $file.html $file.pdf
       rm $file.html
     done
+    
+    
+## TODOs
+
+* read options from `.maddoc` file
+* allow specify path of custom template
+* generate TOC
+* process more than one file in a row (+ allow generate index of files)
+* provide alternative built-in theme (light, dark)
 
 
 ## Contributing
