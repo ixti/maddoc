@@ -3,9 +3,7 @@
 Simple Markdown to HTML converter. In comparison to standard, built-in CLI
 util it generates a nice-looking little-bit styled HTML.
 
-**DISCONTINUED** I'm quiet happy with [pandoc](http://johnmacfarlane.net/pandoc/)
-nowdays. For minimal-styled HTML one can have a CSS and just ask pandoc to
-include it into the header.
+**DISCONTINUED** I'm quiet happy with [pandoc](http://johnmacfarlane.net/pandoc/) nowdays.
 
 
 ## Installation
